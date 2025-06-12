@@ -163,9 +163,9 @@ if you use any data or code from this repository, please cite:
 
 Paasi, G.; Okwware, S.; Olupot-Olupot, P. (2025).
 the resurgence of Blackwater Fever among children in sub–Saharan Africa: a scoping review
-Zenodo. https://doi.org/10.5281/zenodo.XXXXXXXX
+Zenodo. https://doi.org/10.5281/zenodo.15647335
 
-replace XXXXXXXX with the assigned DOI.
+
 
 license
 this repository is licensed under the Creative Commons Attribution 4.0 International (CC BY 4.0). see LICENSE.md for full terms.
@@ -181,12 +181,10 @@ Copy
   "description": "Data and code for a scoping review on blackwater fever among children in sub–Saharan Africa, including search strategies, extracted tables, prisma-scr flow diagram, and analysis scripts. Licensed under CC BY 4.0.",
   "creators": [
     { "name": "Paasi, George", "https://orcid.org/0000-0001-6360-0589" },
-    { "name": "Okwware, Sam" },
-    { "name": "Olupot-Olupot, Peter" }
+        { "name": "Olupot-Olupot, Peter" }
   ],
   "license": "CC-BY-4.0"
 }
-once doi is assigned, replace XXXXXXXX.
 
 contact information
 lead author
