@@ -178,7 +178,7 @@ Copy
   "upload_type": "dataset",
   "description": "Data and code for a scoping review on blackwater fever among children in sub–Saharan Africa, including search strategies, extracted tables, prisma-scr flow diagram, and analysis scripts. Licensed under CC BY 4.0.",
   "creators": [
-    { "name": "Paasi, George", "orcid": "0000-0002-XXXX-XXXX" },
+    { "name": "Paasi, George", "https://orcid.org/0000-0001-6360-0589" },
     { "name": "Okwware, Sam" },
     { "name": "Olupot-Olupot, Peter" }
   ],
