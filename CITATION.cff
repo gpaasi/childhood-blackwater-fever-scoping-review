@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+title: "blackwater fever scoping review repository"
+version: 0.1.0
+date-released: 2025-06-11
+authors:
+  - family-names: Paasi
+    given-names: George
+    orcid: https://orcid.org/0000-0001-6360-0589
+repository-code: https://github.com/YourUser/bwf-scoping-review
+license: CC-BY-4.0

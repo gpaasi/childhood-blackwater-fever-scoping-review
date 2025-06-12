@@ -1,0 +1,7 @@
+stage,count
+identified,1023
+deduplicated,987
+screened,987
+full_text_assessed,123
+full_text_excluded,78
+included,26

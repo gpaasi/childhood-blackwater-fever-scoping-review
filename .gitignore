@@ -1,0 +1,12 @@
+.DS_Store
+Thumbs.db
+~$*.docx
+*.tmp
+.Rhistory
+.RData
+__pycache__/
+*.pyc
+manuscript/*.pdf
+figures/*.png
+figures/*.svg
+supplementary/*.pdf
