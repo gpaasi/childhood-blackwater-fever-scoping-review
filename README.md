@@ -1,6 +1,5 @@
 # blackwater fever scoping review
 
-[![CI](https://github.com/gpaasi/childhood-blackwater-fever-scoping-review/workflows/CI/badge.svg)](https://github.com/gpaasi/childhood-blackwater-fever-scoping-review/actions)
 [![Release v1.0.0](https://img.shields.io/github/v/release/gpaasi/childhood-blackwater-fever-scoping-review)](https://github.com/gpaasi/childhood-blackwater-fever-scoping-review/releases/latest)
 [![Zenodo](https://zenodo.org/badge/DOI/10.5281/zenodo.15647335.svg)](https://doi.org/10.5281/zenodo.15647335)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](LICENSE.md)
